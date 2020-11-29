@@ -8,7 +8,7 @@ Intro to this project
 
 ![image of HW](https://github.com/BPayne-216/leaflet-challenge/blob/main/Images/level_1.png)
 
-This project used html, javascript, and leaflets to create an dynamic visualization graph of the most recent earthquake activity in North America.  The earthquake activty was form the United States Geological Survey (USGS).
+This project used html, javascript, and leaflets to create a dynamic visualization graph of the most recent earthquake activity in North America.  The earthquake activty was form the United States Geological Survey (USGS).
 
 The JSON dataset was from the link below: 
 
