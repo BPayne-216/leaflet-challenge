@@ -6,6 +6,8 @@ Leaflet HW - Visualizing Data with Leaflet
 
 Intro to this project
 
+![image of HW](https://github.com/BPayne-216/leaflet-challenge/blob/main/Images/level_1.png)
+
 This project used javascript and a .csv file to create an D3 interactive visual based on U.S. Census data.  HTML, javascript, D3, css, and bootstrap were used to create the website.
 
 The motivation of this project is utilize D3 interactive graphing function.  In this example, an interactive bubble chart was created which plotted the lack of Healthcare (%) on the Y-axis, but the Poverty level (%) on the X-axis for each state.
@@ -20,6 +22,7 @@ Rendering the axis and cirlces based on the variables and dimensions.
 
 D3 Tooltips were used to highlight or "mouseover" and highlight the state abbreviation with plotpoints of Lack of Healthcare and Poverty % observable when mouse is hovering over plotpoint.
 
+https://github.com/BPayne-216/leaflet-challenge/blob/main/Images/level_1.png
 
 Technology/Framework (In order):  
 VS Code Editor: HTML (bootstrap, css).  Javascript. Within Javascript: D3 was used to create the interactive visual (bubble chart).   When reviewing the index.html file, needed to review by accessing http.server.
