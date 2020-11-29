@@ -10,10 +10,10 @@ Intro to this project
 
 This project used html, javascript, and leaflets to create an dynamic visualization graph of the most recent earthquake activity in North America.  The earthquake activty was form the United States Geological Survey (USGS).  
 
-The motivation of this project is utilize D3 interactive graphing function.  In this example, an interactive bubble chart was created which plotted the lack of Healthcare (%) on the Y-axis, but the Poverty level (%) on the X-axis for each state.
+The motivation of this project use the JSON data and leaflet package to create a dynamic visualization based on most recent earthquake activity in the Northern Hemisphere.
 
 Elements of the data.csv file
-This file comes from the U.S. Census Bureau.  It is based on 2014 ACS 1-year estimates from the U.S. Census Bureau.  For this graph, the relation of State (state abbreviation), Lack of Healthcare (%) and Poverty Level (%).
+
 
 Elements of app.js javascript file 
 SVG, or scalable vector graphics,  were defined, for the bubble chart.
