@@ -8,7 +8,7 @@ Intro to this project
 
 ![image of HW](https://github.com/BPayne-216/leaflet-challenge/blob/main/Images/level_1.png)
 
-This project used javascript and a .csv file to create an D3 interactive visual based on U.S. Census data.  HTML, javascript, D3, css, and bootstrap were used to create the website.
+This project used html, javascript, and leaflets to create an dynamic visualization graph of the most recent earthquake activity in North America.  The earthquake activty was form the United States Geological Survey (USGS).  
 
 The motivation of this project is utilize D3 interactive graphing function.  In this example, an interactive bubble chart was created which plotted the lack of Healthcare (%) on the Y-axis, but the Poverty level (%) on the X-axis for each state.
 
